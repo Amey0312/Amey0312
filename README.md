@@ -33,7 +33,7 @@ I'm a passionate Full Stack Developer with expertise in designing and developing
 ## 📫 How to Reach Me
 
 - **Email:** ameynitore5543@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/amey-nitore](www.linkedin.com/in/amey-nitore)
+- **LinkedIn:** [linkedin.com/in/amey-nitore](www.linkedin.com/in/amey-nitore)
 
 
 
