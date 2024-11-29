@@ -32,13 +32,10 @@ I'm a passionate Full Stack Developer with expertise in designing and developing
 
 ## 📫 How to Reach Me
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername/)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **Email:** ameynitore5543@gmail.com
+- **LinkedIn:** [linkedin.com/in/yourusername](www.linkedin.com/in/amey-nitore)
 
-## 📝 Blog
 
-Check out my latest blog posts on  where I write about web development, programming tips, and more.
 
 ## 💡 Fun Fact
 
