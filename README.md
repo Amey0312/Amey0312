@@ -27,13 +27,13 @@ I'm a passionate Full Stack Developer with expertise in designing and developing
   
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amey0312&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amey0312&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
 - **Email:** ameynitore5543@gmail.com
-- **LinkedIn:** [linkedin.com/in/amey-nitore](www.linkedin.com/in/amey-nitore)
+- **LinkedIn:** [www.linkedin.com/in/amey-nitore](www.linkedin.com/in/amey-nitore)
 
 
 
